@@ -1,0 +1,8 @@
+hello python,this is first git session and below are the commands
+git clone
+git status
+git diff
+git add .
+git commit -m "pass your Commit message here "
+git push
+git push origin branch_name
